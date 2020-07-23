@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 5aa62a80da20748d29c69e11eec9cf0f
+timeCreated: 1481475299
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stripped_down-idle_0
+    21300002: stripped_down-idle_1
+    21300004: stripped_down-idle_2
+    21300006: stripped_down-idle_3
+    21300008: stripped_right-idle_0
+    21300010: stripped_right-idle_1
+    21300012: stripped_right-idle_2
+    21300014: stripped_right-idle_3
+    21300016: stripped_left-idle_0
+    21300018: stripped_left-idle_1
+    21300020: stripped_left-idle_2
+    21300022: stripped_left-idle_3
+    21300024: stripped_up-idle_0
+    21300026: stripped_up-idle_1
+    21300028: stripped_up-idle_2
+    21300030: stripped_up-idle_3
+    21300032: stripped_down-move_0
+    21300034: stripped_down-move_1
+    21300036: stripped_down-move_2
+    21300038: stripped_down-move_3
+    21300040: stripped_right-move_0
+    21300042: stripped_right-move_1
+    21300044: stripped_right-move_2
+    21300046: stripped_right-move_3
+    21300048: stripped_left-move_0
+    21300050: stripped_left-move_1
+    21300052: stripped_left-move_2
+    21300054: stripped_left-move_3
+    21300056: stripped_up-move_0
+    21300058: stripped_up-move_1
+    21300060: stripped_up-move_2
+    21300062: stripped_up-move_3
+    21300064: stripped_death_0
+    21300066: stripped_death_1
+    21300068: stripped_death_2
+    21300070: stripped_death_3
+    21300072: stripped_lies_0
+    21300074: stripped_lies_1
+    21300076: stripped_lies_2
+    21300078: stripped_lies_3
+    21300080: stripped_say_0
+    21300082: stripped_say_1
+    21300084: stripped_say_2
+    21300086: stripped_say_3
+    21300088: stripped_cry_0
+    21300090: stripped_cry_1
+    21300092: stripped_cry_2
+    21300094: stripped_cry_3
+    21300096: stripped_dance_0
+    21300098: stripped_dance_1
+    21300100: stripped_dance_2
+    21300102: stripped_dance_3
+    21300104: stripped_love_0
+    21300106: stripped_love_1
+    21300108: stripped_love_2
+    21300110: stripped_love_3
+    21300112: stripped_sit-left_0
+    21300114: stripped_sit-left_1
+    21300116: stripped_sit-left_2
+    21300118: stripped_sit-left_3
+    21300120: stripped_sit-right_0
+    21300122: stripped_sit-right_1
+    21300124: stripped_sit-right_2
+    21300126: stripped_sit-right_3
+    21300128: stripped_sit-down_0
+    21300130: stripped_sit-down_1
+    21300132: stripped_sit-down_2
+    21300134: stripped_sit-down_3
+    21300136: stripped_death-electric_0
+    21300138: stripped_death-electric_1
+    21300140: stripped_death-electric_2
+    21300142: stripped_death-electric_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stripped_down-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_down-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_right-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_left-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_up-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_lies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_lies_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_lies_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_lies_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_say_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_say_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_say_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_say_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_cry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_cry_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_cry_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_cry_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_dance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_dance_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_dance_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_dance_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_love_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_love_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_love_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_love_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-left_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-left_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-left_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-right_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-right_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-right_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-down_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-down_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_sit-down_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death-electric_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death-electric_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death-electric_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: stripped_death-electric_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: Characters
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

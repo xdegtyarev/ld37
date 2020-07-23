@@ -1,0 +1,132 @@
+{
+  "$type": "SpriteSheetImportSettings, Assembly-CSharp-Editor",
+  "animationSubfolder": "Characters",
+  "defaultRectWidth": 24,
+  "defaultRectHeight": 24,
+  "alignment": 7,
+  "single": {
+    "$type": "SpriteSheetRow[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "down-idle"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "right-idle"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "left-idle"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "up-idle"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "down-move"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "right-move"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "left-move"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "up-move"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": false,
+        "key": "death"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "lies"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "say"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": false,
+        "key": "attack"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "cry"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "dance"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "love"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "sit-left"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "sit-right"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "sit-down"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": false,
+        "key": "death-electric"
+      },
+    ]
+  },
+  "repeating": {
+  "$type": "SpriteSheetRow[], Assembly-CSharp-Editor",
+  "$values": [
+    ]
+  },
+  "key": "characterCut"
+}

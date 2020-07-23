@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 0520445a8233d4740bc00d076f4383a5
+timeCreated: 1481491465
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dog_animations_down-idle_0
+    21300002: dog_animations_down-idle_1
+    21300004: dog_animations_down-idle_2
+    21300006: dog_animations_down-idle_3
+    21300008: dog_animations_right-idle_0
+    21300010: dog_animations_right-idle_1
+    21300012: dog_animations_right-idle_2
+    21300014: dog_animations_right-idle_3
+    21300016: dog_animations_left-idle_0
+    21300018: dog_animations_left-idle_1
+    21300020: dog_animations_left-idle_2
+    21300022: dog_animations_left-idle_3
+    21300024: dog_down-idle_0
+    21300026: dog_down-idle_1
+    21300028: dog_down-idle_2
+    21300030: dog_down-idle_3
+    21300032: dog_right-idle_0
+    21300034: dog_right-idle_1
+    21300036: dog_right-idle_2
+    21300038: dog_right-idle_3
+    21300040: dog_left-idle_0
+    21300042: dog_left-idle_1
+    21300044: dog_left-idle_2
+    21300046: dog_left-idle_3
+    21300048: dog_up-idle_0
+    21300050: dog_up-idle_1
+    21300052: dog_up-idle_2
+    21300054: dog_up-idle_3
+    21300056: dog_down-move_0
+    21300058: dog_down-move_1
+    21300060: dog_down-move_2
+    21300062: dog_down-move_3
+    21300064: dog_right-move_0
+    21300066: dog_right-move_1
+    21300068: dog_right-move_2
+    21300070: dog_right-move_3
+    21300072: dog_left-move_0
+    21300074: dog_left-move_1
+    21300076: dog_left-move_2
+    21300078: dog_left-move_3
+    21300080: dog_up-move_0
+    21300082: dog_up-move_1
+    21300084: dog_up-move_2
+    21300086: dog_up-move_3
+    21300088: dog_death_0
+    21300090: dog_death_1
+    21300092: dog_death_2
+    21300094: dog_death_3
+    21300096: dog_lies_0
+    21300098: dog_lies_1
+    21300100: dog_lies_2
+    21300102: dog_lies_3
+    21300104: dog_say_0
+    21300106: dog_say_1
+    21300108: dog_say_2
+    21300110: dog_say_3
+    21300112: dog_attack_0
+    21300114: dog_attack_1
+    21300116: dog_attack_2
+    21300118: dog_attack_3
+    21300120: dog_cry_0
+    21300122: dog_cry_1
+    21300124: dog_cry_2
+    21300126: dog_cry_3
+    21300128: dog_dance_0
+    21300130: dog_dance_1
+    21300132: dog_dance_2
+    21300134: dog_dance_3
+    21300136: dog_love_0
+    21300138: dog_love_1
+    21300140: dog_love_2
+    21300142: dog_love_3
+    21300144: dog_sit-left_0
+    21300146: dog_sit-left_1
+    21300148: dog_sit-left_2
+    21300150: dog_sit-left_3
+    21300152: dog_sit-right_0
+    21300154: dog_sit-right_1
+    21300156: dog_sit-right_2
+    21300158: dog_sit-right_3
+    21300160: dog_sit-down_0
+    21300162: dog_sit-down_1
+    21300164: dog_sit-down_2
+    21300166: dog_sit-down_3
+    21300168: dog_death-electric_0
+    21300170: dog_death-electric_1
+    21300172: dog_death-electric_2
+    21300174: dog_death-electric_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog_down-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_down-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_right-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_left-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_up-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_lies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_lies_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_lies_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_lies_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_say_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_say_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_say_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_say_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_attack_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 220
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_attack_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_attack_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_cry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_cry_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_cry_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_cry_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_dance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_dance_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_dance_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_dance_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_love_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_love_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_love_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_love_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-left_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-left_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-left_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-right_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-right_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-right_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-down_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-down_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_sit-down_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death-electric_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death-electric_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death-electric_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dog_death-electric_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: Characters
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

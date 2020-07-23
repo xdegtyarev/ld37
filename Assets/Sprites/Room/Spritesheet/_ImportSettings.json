@@ -1,0 +1,30 @@
+{
+  "$type": "SpriteSheetImportSettings, Assembly-CSharp-Editor",
+  "animationSubfolder": "Items",
+  "defaultRectWidth": 48,
+  "defaultRectHeight": 48,
+  "alignment": 7,
+  "single": {
+    "$type": "SpriteSheetRow[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "off"
+      },
+      {
+        "$type": "SpriteSheetRow, Assembly-CSharp-Editor",
+        "isAnimation": true,
+        "isLooped": true,
+        "key": "on"
+      },
+    ]
+  },
+  "repeating": {
+  "$type": "SpriteSheetRow[], Assembly-CSharp-Editor",
+  "$values": [
+    ]
+  },
+  "key": "itemCut"
+}

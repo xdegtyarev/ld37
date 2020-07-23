@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: d031779092b4a4421801e74c102efa56
+timeCreated: 1481381983
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hikka_down_idle_0
+    21300002: hikka_down_idle_1
+    21300004: hikka_down_idle_2
+    21300006: hikka_down_idle_3
+    21300008: hikka_right_idle_0
+    21300010: hikka_right_idle_1
+    21300012: hikka_right_idle_2
+    21300014: hikka_right_idle_3
+    21300016: hikka_up_idle_0
+    21300018: hikka_up_idle_1
+    21300020: hikka_up_idle_2
+    21300022: hikka_up_idle_3
+    21300024: hikka_down_move_0
+    21300026: hikka_down_move_1
+    21300028: hikka_down_move_2
+    21300030: hikka_down_move_3
+    21300032: hikka_right_move_0
+    21300034: hikka_right_move_1
+    21300036: hikka_right_move_2
+    21300038: hikka_right_move_3
+    21300040: hikka_up_move_0
+    21300042: hikka_up_move_1
+    21300044: hikka_up_move_2
+    21300046: hikka_up_move_3
+    21300048: hikka_death_0
+    21300050: hikka_death_1
+    21300052: hikka_death_2
+    21300054: hikka_death_3
+    21300056: hikka_down-idle_0
+    21300058: hikka_down-idle_1
+    21300060: hikka_down-idle_2
+    21300062: hikka_down-idle_3
+    21300064: hikka_right-idle_0
+    21300066: hikka_right-idle_1
+    21300068: hikka_right-idle_2
+    21300070: hikka_right-idle_3
+    21300072: hikka_up-idle_0
+    21300074: hikka_up-idle_1
+    21300076: hikka_up-idle_2
+    21300078: hikka_up-idle_3
+    21300080: hikka_down-move_0
+    21300082: hikka_down-move_1
+    21300084: hikka_down-move_2
+    21300086: hikka_down-move_3
+    21300088: hikka_right-move_0
+    21300090: hikka_right-move_1
+    21300092: hikka_right-move_2
+    21300094: hikka_right-move_3
+    21300096: hikka_up-move_0
+    21300098: hikka_up-move_1
+    21300100: hikka_up-move_2
+    21300102: hikka_up-move_3
+    21300104: hikka_left-idle_0
+    21300106: hikka_left-idle_1
+    21300108: hikka_left-idle_2
+    21300110: hikka_left-idle_3
+    21300112: hikka_left-move_0
+    21300114: hikka_left-move_1
+    21300116: hikka_left-move_2
+    21300118: hikka_left-move_3
+    21300120: hikka_lies_0
+    21300122: hikka_lies_1
+    21300124: hikka_lies_2
+    21300126: hikka_lies_3
+    21300128: hikka_say_0
+    21300130: hikka_say_1
+    21300132: hikka_say_2
+    21300134: hikka_say_3
+    21300136: hikka_cry_0
+    21300138: hikka_cry_1
+    21300140: hikka_cry_2
+    21300142: hikka_cry_3
+    21300144: hikka_dance_0
+    21300146: hikka_dance_1
+    21300148: hikka_dance_2
+    21300150: hikka_dance_3
+    21300152: hikka_love_0
+    21300154: hikka_love_1
+    21300156: hikka_love_2
+    21300158: hikka_love_3
+    21300160: hikka_sit-left_0
+    21300162: hikka_sit-left_1
+    21300164: hikka_sit-left_2
+    21300166: hikka_sit-left_3
+    21300168: hikka_sit-right_0
+    21300170: hikka_sit-right_1
+    21300172: hikka_sit-right_2
+    21300174: hikka_sit-right_3
+    21300176: hikka_sit-down_0
+    21300178: hikka_sit-down_1
+    21300180: hikka_sit-down_2
+    21300182: hikka_sit-down_3
+    21300184: hikka_death-electric_0
+    21300186: hikka_death-electric_1
+    21300188: hikka_death-electric_2
+    21300190: hikka_death-electric_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hikka_down-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_down-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_right-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_left-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_up-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_lies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_lies_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_lies_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_lies_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_say_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_say_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_say_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_say_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_cry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_cry_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_cry_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_cry_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 196
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_dance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_dance_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_dance_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_dance_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 172
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_love_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_love_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_love_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_love_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 148
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-left_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-left_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-left_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-right_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-right_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-right_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-down_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-down_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_sit-down_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death-electric_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death-electric_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death-electric_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hikka_death-electric_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: Characters
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

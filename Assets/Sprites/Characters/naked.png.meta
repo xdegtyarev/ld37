@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 5dd3991275649416785799c536500b2a
+timeCreated: 1481390112
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: naked_down-idle_0
+    21300002: naked_down-idle_1
+    21300004: naked_down-idle_2
+    21300006: naked_down-idle_3
+    21300008: naked_right-idle_0
+    21300010: naked_right-idle_1
+    21300012: naked_right-idle_2
+    21300014: naked_right-idle_3
+    21300016: naked_up-idle_0
+    21300018: naked_up-idle_1
+    21300020: naked_up-idle_2
+    21300022: naked_up-idle_3
+    21300024: naked_down-move_0
+    21300026: naked_down-move_1
+    21300028: naked_down-move_2
+    21300030: naked_down-move_3
+    21300032: naked_right-move_0
+    21300034: naked_right-move_1
+    21300036: naked_right-move_2
+    21300038: naked_right-move_3
+    21300040: naked_up-move_0
+    21300042: naked_up-move_1
+    21300044: naked_up-move_2
+    21300046: naked_up-move_3
+    21300048: naked_death_0
+    21300050: naked_death_1
+    21300052: naked_death_2
+    21300054: naked_death_3
+    21300056: naked_left-idle_0
+    21300058: naked_left-idle_1
+    21300060: naked_left-idle_2
+    21300062: naked_left-idle_3
+    21300064: naked_left-move_0
+    21300066: naked_left-move_1
+    21300068: naked_left-move_2
+    21300070: naked_left-move_3
+    21300072: naked_lies_0
+    21300074: naked_lies_1
+    21300076: naked_lies_2
+    21300078: naked_lies_3
+    21300080: naked_say_0
+    21300082: naked_say_1
+    21300084: naked_say_2
+    21300086: naked_say_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naked_down-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 436
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-idle_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-idle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-idle_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_down-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_right-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 364
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_left-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-move_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-move_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_up-move_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_death_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_death_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_death_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_lies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_lies_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_lies_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_lies_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_say_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_say_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_say_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: naked_say_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: Characters
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
